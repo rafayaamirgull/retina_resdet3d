@@ -38,7 +38,7 @@ We need three things to get started with training: datasets, kinetics pre-traine
   - Install [Pytorch](https://pytorch.org/) and [torchvision](http://pytorch.org/docs/torchvision/datasets.html)
   - INstall tensorboardX viad `pip install tensorboardx`
   - Pre-trained weight on [kinetics-400](https://deepmind.com/research/open-source/kinetics). Download them by changing current directory to `kinetics-pt` and run the bash file [get_kinetics_weights.sh](./kinetics-pt/get_kinetics_weights.sh). OR Download them from  [Google-Drive](https://drive.google.com/drive/folders/1xERCC1wa1pgcDtrZxPgDKteIQLkLByPS?usp=sharing). Name the folder `kinetics-pt`, it is important to name it right. 
-
+Weights and road_trainval_v1.0.json are available at [Google-Drive](https://drive.google.com/drive/folders/1ZWo_L0nGcbAoWA5mzWZHhY0ju-9x39G0?usp=drive_link)
 
 
 ## Training 3D-RetinaNet
